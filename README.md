@@ -58,14 +58,40 @@ I step into existing SaaS & AI products, understand the system *fast*, and ship 
 
 ---
 
+## 🤖 AI engineering & integration
+
+I don't just "add a chatbot." I build **AI features that actually ship** — reliable, cost-aware, and woven into your product's real workflows.
+
+| Capability | What it means for your product |
+| --- | --- |
+| 🧠 **LLM integration** | OpenAI & Anthropic (Claude) wired into real features — not demos |
+| 💬 **Chat & assistants** | Context-aware chat, support bots, and in-app copilots that understand *your* data |
+| 📚 **RAG & knowledge** | Retrieval over your docs/DB so the AI answers from facts, not hallucinations |
+| 🔧 **AI workflows & agents** | Multi-step automations: classify → reason → act, with guardrails |
+| ✍️ **Prompt engineering** | Tuned, tested prompts that are consistent and cheap to run |
+| 💸 **Cost & latency control** | Streaming, caching, and model routing so AI stays fast and affordable at scale |
+
+> **My edge:** I use AI tools daily to build *faster*, but I **validate every output** — so you get the speed of AI with the reliability of solid engineering.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-GPT--4o%20%2F%20o--series-412991?style=flat&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anthropic-Claude-D97757?style=flat&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-Vector%20Search-1f6feb?style=flat"/>
+  <img src="https://img.shields.io/badge/Agents-Tool%20Use-6FDA44?style=flat"/>
+  <img src="https://img.shields.io/badge/Streaming-Realtime-orange?style=flat"/>
+</p>
+
+---
+
 ## 💼 Selected work
 
 Real products I've built, fixed, and scaled:
 
 ### 🤖 EasierNow — AI Task Platform
-**Challenge:** An AI MVP that was unstable and not ready for real users.
-**What I did:** Fixed production issues, stabilized the system, and prepared the architecture to scale.
-**Result:** A reliable platform ready to grow instead of break.
+**Challenge:** An AI-powered MVP that was unstable and not ready for real users.
+**What I did:** Hardened the **AI workflows**, fixed production issues, stabilized the system, and prepared the architecture to scale.
+**Result:** A reliable, production-ready AI platform built to grow instead of break.
+`AI workflows` · `OpenAI / Claude` · `production hardening`
 
 ### 👥 OurTribe — Social Platform
 **Challenge:** A frontend with no real backend behind it.
