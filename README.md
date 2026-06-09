@@ -152,12 +152,30 @@ Real products I've built, fixed, and scaled:
 
 ---
 
-## 📊 GitHub activity
+## 🎯 Why clients choose me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohitviionn-star&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitviionn-star&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="top langs"/>
-</p>
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+### ⚡ Fast to value
+I understand your codebase quickly and ship **safe, visible progress in days — not months.**
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🛡️ Won't break things
+Small, tested changes. I improve what's there **without taking your product down.**
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🤖 AI done right
+Real OpenAI & Claude features that are **reliable and cost-aware** — not demos.
+
+</td>
+</tr>
+</table>
 
 ---
 
