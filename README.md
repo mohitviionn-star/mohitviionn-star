@@ -1,4 +1,3 @@
-<!-- ====================== HERO ====================== -->
 <a href="https://www.upwork.com/freelancers/~011a5aaf3126419597">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6FDA44,100:1f6feb&height=200&section=header&text=Mohit%20Mahajan&fontColor=ffffff&fontSize=52&desc=Sr%20Full-Stack%20Engineer%20%C2%B7%20SaaS%20%2B%20AI%20Systems&descSize=20&descAlignY=62&animation=fadeIn" alt="Mohit Mahajan"/>
 </a>
@@ -21,7 +20,7 @@
   </a>
 </p>
 
-<!-- ====================== TRUST BAR ======================
+<!-- trust bar
   👉 Replace the X's below with your REAL numbers so clients trust them.
      (Years freelancing, projects shipped, Upwork rating/JSS, typical reply time)
 -->
