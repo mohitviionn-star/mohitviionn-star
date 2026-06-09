@@ -16,7 +16,7 @@
   <a href="https://mohitmahajann.netlify.app/">
     <img src="https://img.shields.io/badge/%F0%9F%8C%90%20View-Portfolio-FF5722?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="mailto:vidit.viionn@gmail.com">
+  <a href="mailto:mohit.viionn@gmail.com">
     <img src="https://img.shields.io/badge/%F0%9F%93%AC%20Email-Me-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -190,7 +190,7 @@ Real OpenAI & Claude features that are **reliable and cost-aware** — not demos
   <a href="https://www.upwork.com/freelancers/~011a5aaf3126419597">
     <img src="https://img.shields.io/badge/Start%20a%20project%20on-Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Hire on Upwork"/>
   </a>
-  <a href="mailto:vidit.viionn@gmail.com">
+  <a href="mailto:mohit.viionn@gmail.com">
     <img src="https://img.shields.io/badge/Or%20email-me%20directly-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
